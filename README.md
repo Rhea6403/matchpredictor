@@ -18,12 +18,7 @@ Both PCs must be connected to the same network.
 ```
 
 ## Screenshots:
-
-### macOS
-![](https://raw.github.com/rohit25-1/AirDrop-For-Windows/master/Screenshots/ss_mac.png)
-
-
-### Architecture
+chitecture
 ![](https://raw.github.com/rohit25-1/AirDrop-For-Windows/master/Screenshots/architecture.png)
 
 
